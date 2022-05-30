@@ -38,6 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - npx create-next-app rick-and-morty
 - npm i @apollo/client graphql
 - npm i @chakra-ui/react
+- npm i @chakra-ui/icons
 - in next.config.js
 ```
 module.exports = {
